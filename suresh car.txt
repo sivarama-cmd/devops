@@ -1,0 +1,4 @@
+speed 200 mailege 23 kil
+model 2009
+meter reading 100000
+ful condition
